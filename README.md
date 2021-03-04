@@ -1,3 +1,6 @@
+
+![DGLinker logo](hhttps://github.com/KHP-Informatics/DGLinker-validation/blob/master/dglinker_logo_001_small.jpg)
+
 # DGLinker-validation
 Validation for the DGLinker webserver
 
